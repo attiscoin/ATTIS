@@ -1,0 +1,9 @@
+Building ATTIS
+
+See doc/readme-qt.rst for instructions on building ATTIS QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of ATTIS.
+
+See doc/build-*.txt for instructions on building attisd,
+the intended-for-services, no-graphical-interface, reference
+implementation of ATTIS.
